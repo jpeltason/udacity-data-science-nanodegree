@@ -4,7 +4,7 @@
 This project is part of my [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 Udacity Data Scientist Nanodegree. We will analyze and compare the usage of Airbnb (https://www.airbnb.com/) in two German cities (Munich and Berlin), and build a model for predicting price per night for accomodations in Munich and Berlin.
 
-The Medium post related to this Jupyter Notebook can be found here: 
+The Medium post related to this Jupyter Notebook can be found here: https://medium.com/@jpeltaso/munich-vs-berlin-an-analysis-of-airbnb-usage-148135ef9768
 
 Based on Inside Airbnb Data for the two cities, we conduct a general explorative analysis, as well as a geospatial and temporal analysis. Also, we use Linear Regression and Random Forest Regression to predict the price per night of accommodations in both cities. We focus on the following questions:
 
