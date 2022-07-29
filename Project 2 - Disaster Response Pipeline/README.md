@@ -53,7 +53,7 @@ categories are distributed unevenly over the genres.
 * `LinearSVC` with default parameters
 * `MultinomialNB` with default parameters
 
-<img src="images/9-classifier-comparison.png" width="30%"/>
+<img src="images/9-classifier-comparison.png" width="50%"/>
 
 Future work to further improve the performance of message classification might 
 include:
