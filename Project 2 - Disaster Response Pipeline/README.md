@@ -24,7 +24,7 @@ classification. The following visualizations provide an overview of the nature o
 
 ![](images/4-genre-by-category-proportion.png)
 
-<img src="images/5-genre-distribution.png" width="20%"/>
+<img src="images/5-genre-distribution.png" width="40%"/>
 
 ![](images/6-categories-per-message.png)
 
